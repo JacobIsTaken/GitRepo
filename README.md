@@ -1,2 +1,2 @@
-AYOO woo
 # REPO:Imię/Nazwisko
+ayoo dziala
